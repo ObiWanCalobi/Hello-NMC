@@ -10,6 +10,10 @@ namespace Hello_NMC
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello NMC");
+            Console.WriteLine();
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
         }
     }
 }
